@@ -1,0 +1,40 @@
+# Compiled class files & build directories
+target/
+**/target/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE and Project files
+.settings/
+**/.settings/
+.classpath
+**/.classpath
+.project
+**/.project
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+*.iml
+
+# Local database and user data
+.hospital-management/
+**/.hospital-management/
+*.db
+*.mv.db
+*.trace.db
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Log files
+*.log
